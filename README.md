@@ -8,4 +8,4 @@
     Results for analyzing airport flight information using hadoop pig.
 
 ### Hw3
-    TBD
+    Spark tutorial with Martin Luther King's IhaveaDream, and NYC Taxi data's analytic
